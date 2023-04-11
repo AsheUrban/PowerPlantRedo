@@ -1,10 +1,7 @@
-# _JavaScript Template_
 
-## EDIT BEFORE COMMITING
+## Power Plant
 
-#### By _Ashe Urban & Vera Weikel_
-
-#### _This project is serving as a template respository for future work_
+#### By _Ashe Urban & Justin Lee_
 
 ## Technologies Used
 
@@ -19,11 +16,7 @@
 
 ## Description
 
-_This project template was built off of Epicodus' lessons on TDD and js environments_
-
-_As such, there are tests and js files for a triangle and rectangle constructor, these should be updated per project._
-
-_Lesson prompt:_ https://www.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/basic-project-structure
+_Lesson prompt:_ https://www.learnhowtoprogram.com/react/functional-programming-with-javascript/building-a-functional-application-part-2
 
 ## Setup/Installation Requirements
 
@@ -38,10 +31,10 @@ _Lesson prompt:_ https://www.learnhowtoprogram.com/intermediate-javascript/test-
 
 ## Known Bugs
 
-- _None_
+- _No testing was done_
 
 ## License
 
 _MIT_
 
-Copyright (c) _2023_ _Ashe Urban_ _Vera Weikel_
+Copyright (c) _2023_ _Ashe Urban_ _Justin Lee_
